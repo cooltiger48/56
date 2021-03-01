@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: azure;
+}
+
+div{
+    margin-top: 15px;
+}
+
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: aliceblue;
+}
+
+#img1{
+    width: 20%;
+}
+
+#img2{
+    width: 20%;
+}
+
+#img3{
+    width: 20%;
+}
+
+#img4{
+    width: 20%;
+}
